@@ -3,7 +3,7 @@
 ## СПм-23-5, Лобач Яків Вадимович
 ### Лабораторна робота №**3**. Застосування обчислювальних засобів для оптимізації симуляційних моделей
 
-### [Варіант 7] [Wolf Sheep Predation](https://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
+### [Варіант 10] [Wolf Sheep Predation](https://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
 
 ### Налаштування середовища BehaviorSearch:
 
